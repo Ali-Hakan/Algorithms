@@ -1,6 +1,6 @@
 /**
  * The program determines the most optimal route between indicated coordinates with an identified beginning point.
- * @author Ali Hakan Ozen, Student ID: 2021719237
+ * @author Ali Hakan Ozen
  * @since Date: 18.04.2022
  */
 
