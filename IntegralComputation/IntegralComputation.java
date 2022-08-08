@@ -1,6 +1,6 @@
 /**
  * This class approximates the result of integral of a provided maximum third degree polynomial.
- * @author Ali Hakan Ozen, Student ID: 2021719237
+ * @author Ali Hakan Ozen
  * @since Date: 13.06.2022
  */
 
