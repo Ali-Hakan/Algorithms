@@ -1,0 +1,16 @@
+C:\Users\hadda\source\repos\STM2IR\STM2IR\obj\Debug\net5.0\STM2IR.csproj.AssemblyReference.cache
+C:\Users\hadda\source\repos\STM2IR\STM2IR\obj\Debug\net5.0\STM2IR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hadda\source\repos\STM2IR\STM2IR\obj\Debug\net5.0\STM2IR.AssemblyInfoInputs.cache
+C:\Users\hadda\source\repos\STM2IR\STM2IR\obj\Debug\net5.0\STM2IR.AssemblyInfo.cs
+C:\Users\hadda\source\repos\STM2IR\STM2IR\obj\Debug\net5.0\STM2IR.csproj.CoreCompileInputs.cache
+C:\Users\hadda\source\repos\STM2IR\STM2IR\bin\Debug\net5.0\STM2IR.exe
+C:\Users\hadda\source\repos\STM2IR\STM2IR\bin\Debug\net5.0\STM2IR.deps.json
+C:\Users\hadda\source\repos\STM2IR\STM2IR\bin\Debug\net5.0\STM2IR.runtimeconfig.json
+C:\Users\hadda\source\repos\STM2IR\STM2IR\bin\Debug\net5.0\STM2IR.runtimeconfig.dev.json
+C:\Users\hadda\source\repos\STM2IR\STM2IR\bin\Debug\net5.0\STM2IR.dll
+C:\Users\hadda\source\repos\STM2IR\STM2IR\bin\Debug\net5.0\ref\STM2IR.dll
+C:\Users\hadda\source\repos\STM2IR\STM2IR\bin\Debug\net5.0\STM2IR.pdb
+C:\Users\hadda\source\repos\STM2IR\STM2IR\obj\Debug\net5.0\STM2IR.dll
+C:\Users\hadda\source\repos\STM2IR\STM2IR\obj\Debug\net5.0\ref\STM2IR.dll
+C:\Users\hadda\source\repos\STM2IR\STM2IR\obj\Debug\net5.0\STM2IR.pdb
+C:\Users\hadda\source\repos\STM2IR\STM2IR\obj\Debug\net5.0\STM2IR.genruntimeconfig.cache
